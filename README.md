@@ -5,4 +5,5 @@ This is a basic calculator built using **Python** and **Streamlit** that allows 
   - Subtraction
   - Multiplication
   - Division
+
  User-friendly interface with real-time results
